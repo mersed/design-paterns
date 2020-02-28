@@ -1,3 +1,0 @@
-/home/mersed/CLionProjects/DesignPatterns/1. SingleResponsabilityPrinciple/good_example/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/mersed/CLionProjects/DesignPatterns/1. SingleResponsabilityPrinciple/good_example/cmake-build-debug/CMakeFiles/good_example.dir
-/home/mersed/CLionProjects/DesignPatterns/1. SingleResponsabilityPrinciple/good_example/cmake-build-debug/CMakeFiles/edit_cache.dir

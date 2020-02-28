@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/good_example.dir/main.cpp.o  -o good_example 

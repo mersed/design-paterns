@@ -1,0 +1,3 @@
+/home/mersed/CLionProjects/DesignPatterns/6.Builder/2.Builder/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/mersed/CLionProjects/DesignPatterns/6.Builder/2.Builder/cmake-build-debug/CMakeFiles/2_Builder.dir
+/home/mersed/CLionProjects/DesignPatterns/6.Builder/2.Builder/cmake-build-debug/CMakeFiles/edit_cache.dir
