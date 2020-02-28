@@ -1,0 +1,3 @@
+/home/mersed/CLionProjects/DesignPatterns/5.DependencyInversionPrinciple/bad_example/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/mersed/CLionProjects/DesignPatterns/5.DependencyInversionPrinciple/bad_example/cmake-build-debug/CMakeFiles/bad_example.dir
+/home/mersed/CLionProjects/DesignPatterns/5.DependencyInversionPrinciple/bad_example/cmake-build-debug/CMakeFiles/edit_cache.dir
