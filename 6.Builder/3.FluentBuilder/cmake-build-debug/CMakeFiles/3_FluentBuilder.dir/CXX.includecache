@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mersed/CLionProjects/DesignPatterns/6.Builder/3.FluentBuilder/HtmlBuilder.cpp
+HtmlBuilder.h
+/home/mersed/CLionProjects/DesignPatterns/6.Builder/3.FluentBuilder/HtmlBuilder.h
+
+/home/mersed/CLionProjects/DesignPatterns/6.Builder/3.FluentBuilder/HtmlBuilder.h
+string
+-
+HtmlElement.h
+/home/mersed/CLionProjects/DesignPatterns/6.Builder/3.FluentBuilder/HtmlElement.h
+
+/home/mersed/CLionProjects/DesignPatterns/6.Builder/3.FluentBuilder/HtmlElement.cpp
+HtmlElement.h
+/home/mersed/CLionProjects/DesignPatterns/6.Builder/3.FluentBuilder/HtmlElement.h
+sstream
+-
+
+/home/mersed/CLionProjects/DesignPatterns/6.Builder/3.FluentBuilder/HtmlElement.h
+string
+-
+vector
+-
+HtmlBuilder.h
+/home/mersed/CLionProjects/DesignPatterns/6.Builder/3.FluentBuilder/HtmlBuilder.h
+
+/home/mersed/CLionProjects/DesignPatterns/6.Builder/3.FluentBuilder/main.cpp
+iostream
+-
+HtmlElement.h
+/home/mersed/CLionProjects/DesignPatterns/6.Builder/3.FluentBuilder/HtmlElement.h
+
