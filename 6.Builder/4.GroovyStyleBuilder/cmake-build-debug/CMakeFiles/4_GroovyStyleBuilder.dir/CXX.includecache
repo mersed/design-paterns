@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mersed/CLionProjects/DesignPatterns/6.Builder/4.GroovyStyleBuilder/main.cpp
+iostream
+-
+vector
+-
+string
+-
+utility
+-
+unordered_map
+-
+
