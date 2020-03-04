@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/6_BuilderCodingExcercise.dir/main.cpp.o  -o 6_BuilderCodingExcercise 
