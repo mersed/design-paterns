@@ -10,7 +10,8 @@
  * However, this is not a good solution. Both coordinates are assigned to x, y ...
  * What is assigned to x and what to y... Code is hard to follow and not really
  * readable. Sure, we could add some documentation, but that will not make this
- * example any more good.
+ * example any more good, due to the fact that we will still have constructor
+ * limitations.
  */
 enum class PointType
 {

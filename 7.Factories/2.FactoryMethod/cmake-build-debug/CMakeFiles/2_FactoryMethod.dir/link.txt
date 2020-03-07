@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/2_FactoryMethod.dir/main.cpp.o  -o 2_FactoryMethod 
