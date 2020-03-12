@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mersed/CLionProjects/DesignPatterns/7.Factories/5.AbstractFactory/DrinkFactory.h
+map
+-
+HotDrink.h
+/home/mersed/CLionProjects/DesignPatterns/7.Factories/5.AbstractFactory/HotDrink.h
+HotDrinkFactory.h
+/home/mersed/CLionProjects/DesignPatterns/7.Factories/5.AbstractFactory/HotDrinkFactory.h
+
+/home/mersed/CLionProjects/DesignPatterns/7.Factories/5.AbstractFactory/HotDrink.h
+iostream
+-
+memory
+-
+
+/home/mersed/CLionProjects/DesignPatterns/7.Factories/5.AbstractFactory/HotDrinkFactory.h
+HotDrink.h
+/home/mersed/CLionProjects/DesignPatterns/7.Factories/5.AbstractFactory/HotDrink.h
+
+/home/mersed/CLionProjects/DesignPatterns/7.Factories/5.AbstractFactory/main.cpp
+DrinkFactory.h
+/home/mersed/CLionProjects/DesignPatterns/7.Factories/5.AbstractFactory/DrinkFactory.h
+

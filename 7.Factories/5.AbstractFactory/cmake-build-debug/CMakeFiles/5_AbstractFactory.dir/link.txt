@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/5_AbstractFactory.dir/main.cpp.o  -o 5_AbstractFactory 
