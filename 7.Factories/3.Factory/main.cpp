@@ -2,11 +2,10 @@
 #include <cmath>
 
 /**
- * One of the ways to overcome this issue is to use factory method.
- * Instead of using constructor directly, we will:
- * - create privately constructor
- * - create two static methods for two types of coordinates
- * - use constructor within those methods and return created instance
+ * Instead of just using a separate methods within our original class,
+ * as in previous example, what we can do is - we can extract these methods
+ * in the separate class -> and make that class as a Factory class
+ * which will be used to access to the private constructs of the original class
  */
 enum class PointType
 {

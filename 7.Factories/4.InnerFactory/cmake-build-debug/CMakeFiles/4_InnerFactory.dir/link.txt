@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/4_InnerFactory.dir/main.cpp.o  -o 4_InnerFactory 
