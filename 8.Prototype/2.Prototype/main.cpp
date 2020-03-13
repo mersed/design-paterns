@@ -1,19 +1,9 @@
 /**
- * Now, in main.cpp we made an ideal scenario, where everything is working - and everything is kept as
- * an value (for example an address).
+ * Best way to implement deep copy is to implement copy constructor.
+ * Constructor will take another contact as its argument and will simply attemt to relicate
+ * all the members/properties of the contact.
  *
- * Now, situation decently complicates if we have an object which does not contain only values as its
- * own properties. What if that object contains property which is a pointer to another object in memory?
- *
- * This makes copying (creating an object from a prototype much harder). And this is - usually - a real life
- * scenario which we can encounter.
- *
- * You can see the same example bellow, just address is stored as a pointer - and if we use the same method
- * as we did in main.cpp, we will have an issue. Because when we start changing values for the second object
- * we will change values for the first object as well (because both of them are using same pointer for address).
- *
- * This means that we need to implement deep copy somehow - and that is what Prototype pattern is all about.
- * Question is, what is the best way to prepare/implement deep copy.
+ * A memory leak is introduced bellow on line 35 ...
  */
 #include <iostream>
 
@@ -24,6 +14,8 @@ struct Address
     int suite;
 
     Address(const std::string &street, const std::string &city, int suite) : street(street), city(city), suite(suite) {}
+
+    Address(const Address &address) : street(address.street), city(address.city), suite(address.suite) {}
 
     friend std::ostream &operator<<(std::ostream &os, const Address &address) {
         os << "street: " << address.street << " city: " << address.city << " suite: " << address.suite;
@@ -37,6 +29,13 @@ struct Contact
     Address *address;
 
     Contact(const std::string &name, Address *address) : name(name), address(address) {}
+
+    Contact(const Contact &other)
+    : name{other.name},
+      address{new Address{*other.address}}
+    {
+
+    }
 
     friend std::ostream &operator<<(std::ostream &os, const Contact &contact) {
         os << "name: " << contact.name << " address: " << *contact.address;
