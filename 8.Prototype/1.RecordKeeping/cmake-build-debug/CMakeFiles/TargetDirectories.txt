@@ -1,0 +1,3 @@
+/home/mersed/CLionProjects/DesignPatterns/8.Prototype/1.RecordKeeping/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/mersed/CLionProjects/DesignPatterns/8.Prototype/1.RecordKeeping/cmake-build-debug/CMakeFiles/1_RecordKeeping.dir
+/home/mersed/CLionProjects/DesignPatterns/8.Prototype/1.RecordKeeping/cmake-build-debug/CMakeFiles/edit_cache.dir
