@@ -2,8 +2,6 @@
  * Best way to implement deep copy is to implement copy constructor.
  * Constructor will take another contact as its argument and will simply attemt to relicate
  * all the members/properties of the contact.
- *
- * A memory leak is introduced bellow on line 35 ...
  */
 #include <iostream>
 
@@ -30,12 +28,9 @@ struct Contact
 
     Contact(const std::string &name, Address *address) : name(name), address(address) {}
 
-    Contact(const Contact &other)
-    : name{other.name},
-      address{new Address{*other.address}}
-    {
+    Contact(const Contact &other) : name{other.name}, address{new Address{*other.address}} {}
 
-    }
+    ~Contact() { delete address; }
 
     friend std::ostream &operator<<(std::ostream &os, const Contact &contact) {
         os << "name: " << contact.name << " address: " << *contact.address;
