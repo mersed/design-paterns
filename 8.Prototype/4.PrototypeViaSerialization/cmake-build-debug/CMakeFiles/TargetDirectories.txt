@@ -1,0 +1,3 @@
+/home/mersed/CLionProjects/DesignPatterns/8.Prototype/4.PrototypeViaSerialization/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/mersed/CLionProjects/DesignPatterns/8.Prototype/4.PrototypeViaSerialization/cmake-build-debug/CMakeFiles/4_PrototypeViaSerialization.dir
+/home/mersed/CLionProjects/DesignPatterns/8.Prototype/4.PrototypeViaSerialization/cmake-build-debug/CMakeFiles/edit_cache.dir

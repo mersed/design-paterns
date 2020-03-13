@@ -1,0 +1,7 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/usr/bin/make -G "CodeBlocks - Unix Makefiles" /home/mersed/CLionProjects/DesignPatterns/8.Prototype/4.PrototypeViaSerialization
+-- Boost version: 1.65.1
+-- Found the following Boost libraries:
+--   serialization
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/mersed/CLionProjects/DesignPatterns/8.Prototype/4.PrototypeViaSerialization/cmake-build-debug

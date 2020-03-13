@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mersed/CLionProjects/DesignPatterns/8.Prototype/4.PrototypeViaSerialization/main.cpp
+iostream
+-
+memory
+-
+sstream
+-
+boost/serialization/serialization.hpp
+-
+boost/archive/text_iarchive.hpp
+-
+boost/archive/text_oarchive.hpp
+-
+

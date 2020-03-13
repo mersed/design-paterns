@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   -lboost_serialization CMakeFiles/4_PrototypeViaSerialization.dir/main.cpp.o  -o 4_PrototypeViaSerialization /usr/lib/x86_64-linux-gnu/libboost_serialization.so 
