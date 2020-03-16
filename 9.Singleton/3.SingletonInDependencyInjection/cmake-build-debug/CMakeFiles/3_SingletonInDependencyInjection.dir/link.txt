@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/3_SingletonInDependencyInjection.dir/main.cpp.o  -o 3_SingletonInDependencyInjection lib/libgtestd.a lib/libgtest_maind.a lib/libgmockd.a lib/libgmock_maind.a lib/libgmockd.a lib/libgtestd.a -lpthread 
