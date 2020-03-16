@@ -1,0 +1,3 @@
+/home/mersed/CLionProjects/DesignPatterns/9.Singleton/4.SingletonUsingDIContainer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/mersed/CLionProjects/DesignPatterns/9.Singleton/4.SingletonUsingDIContainer/cmake-build-debug/CMakeFiles/4_SingletonUsingDIContainer.dir
+/home/mersed/CLionProjects/DesignPatterns/9.Singleton/4.SingletonUsingDIContainer/cmake-build-debug/CMakeFiles/edit_cache.dir

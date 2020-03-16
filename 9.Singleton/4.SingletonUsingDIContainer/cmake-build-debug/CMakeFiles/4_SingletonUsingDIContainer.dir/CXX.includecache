@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mersed/CLionProjects/DesignPatterns/9.Singleton/4.SingletonUsingDIContainer/di.hpp
+__config
+-
+memory
+-
+vector
+-
+set
+-
+initializer_list
+-
+tuple
+-
+iterator
+-
+string
+-
+boost/shared_ptr.hpp
+-
+
+/home/mersed/CLionProjects/DesignPatterns/9.Singleton/4.SingletonUsingDIContainer/main.cpp
+iostream
+-
+string
+-
+memory
+-
+di.hpp
+/home/mersed/CLionProjects/DesignPatterns/9.Singleton/4.SingletonUsingDIContainer/di.hpp
+boost/lexical_cast.hpp
+-
+

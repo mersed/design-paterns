@@ -85,7 +85,7 @@ public:
 
 private:
 
-    int get_population(const std::string &name) override 
+    int get_population(const std::string &name) override
     {
         return capitals[name];
     }
