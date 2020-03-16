@@ -1,0 +1,14 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/usr/bin/make -G "CodeBlocks - Unix Makefiles" /home/mersed/CLionProjects/DesignPatterns/9.Singleton/2.TestabilityIssues
+-- Found PythonInterp: /usr/bin/python (found version "2.7.17") 
+-- Looking for pthread.h
+-- Looking for pthread.h - found
+-- Looking for pthread_create
+-- Looking for pthread_create - not found
+-- Looking for pthread_create in pthreads
+-- Looking for pthread_create in pthreads - not found
+-- Looking for pthread_create in pthread
+-- Looking for pthread_create in pthread - found
+-- Found Threads: TRUE  
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/mersed/CLionProjects/DesignPatterns/9.Singleton/2.TestabilityIssues/cmake-build-debug

@@ -1,0 +1,20 @@
+Tokyo
+9273000
+New York
+8623000
+Sao Paulo
+12180000
+Seoul
+9776000
+Mexico City
+8855000
+Osaka
+2691000
+Manila
+1780000
+Mumbai
+18410000
+Delhi
+18980000
+Jakarta
+9608000

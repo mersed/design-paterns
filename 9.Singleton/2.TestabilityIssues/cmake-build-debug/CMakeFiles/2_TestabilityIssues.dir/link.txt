@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/2_TestabilityIssues.dir/main.cpp.o  -o 2_TestabilityIssues lib/libgtestd.a lib/libgtest_maind.a lib/libgmockd.a lib/libgmock_maind.a lib/libgmockd.a lib/libgtestd.a -lpthread 
