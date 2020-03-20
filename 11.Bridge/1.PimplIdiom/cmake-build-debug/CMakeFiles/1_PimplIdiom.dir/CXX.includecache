@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mersed/CLionProjects/DesignPatterns/11.Bridge/1.PimplIdiom/Person.cpp
+Person.h
+/home/mersed/CLionProjects/DesignPatterns/11.Bridge/1.PimplIdiom/Person.h
+iostream
+-
+
+/home/mersed/CLionProjects/DesignPatterns/11.Bridge/1.PimplIdiom/Person.h
+string
+-
+
+/home/mersed/CLionProjects/DesignPatterns/11.Bridge/1.PimplIdiom/main.cpp
+Person.h
+/home/mersed/CLionProjects/DesignPatterns/11.Bridge/1.PimplIdiom/Person.h
+

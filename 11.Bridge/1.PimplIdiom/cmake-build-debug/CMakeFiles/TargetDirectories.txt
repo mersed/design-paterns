@@ -1,0 +1,3 @@
+/home/mersed/CLionProjects/DesignPatterns/11.Bridge/1.PimplIdiom/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/mersed/CLionProjects/DesignPatterns/11.Bridge/1.PimplIdiom/cmake-build-debug/CMakeFiles/1_PimplIdiom.dir
+/home/mersed/CLionProjects/DesignPatterns/11.Bridge/1.PimplIdiom/cmake-build-debug/CMakeFiles/edit_cache.dir
