@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mersed/CLionProjects/DesignPatterns/11.Bridge/2.ShrinkWrappedPimpl/Foo.cpp
+Foo.h
+/home/mersed/CLionProjects/DesignPatterns/11.Bridge/2.ShrinkWrappedPimpl/Foo.h
+
+/home/mersed/CLionProjects/DesignPatterns/11.Bridge/2.ShrinkWrappedPimpl/Foo.h
+Pimpl.h
+/home/mersed/CLionProjects/DesignPatterns/11.Bridge/2.ShrinkWrappedPimpl/Pimpl.h
+
+/home/mersed/CLionProjects/DesignPatterns/11.Bridge/2.ShrinkWrappedPimpl/Pimpl.cpp
+Pimpl.h
+/home/mersed/CLionProjects/DesignPatterns/11.Bridge/2.ShrinkWrappedPimpl/Pimpl.h
+
+/home/mersed/CLionProjects/DesignPatterns/11.Bridge/2.ShrinkWrappedPimpl/Pimpl.h
+memory
+-
+
+/home/mersed/CLionProjects/DesignPatterns/11.Bridge/2.ShrinkWrappedPimpl/main.cpp
+iostream
+-
+

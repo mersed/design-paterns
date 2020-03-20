@@ -1,0 +1,4 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/usr/bin/make -G "CodeBlocks - Unix Makefiles" /home/mersed/CLionProjects/DesignPatterns/11.Bridge/2.ShrinkWrappedPimpl
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/mersed/CLionProjects/DesignPatterns/11.Bridge/2.ShrinkWrappedPimpl/cmake-build-debug
