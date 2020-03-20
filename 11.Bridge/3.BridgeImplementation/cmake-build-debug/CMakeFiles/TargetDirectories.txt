@@ -1,0 +1,3 @@
+/home/mersed/CLionProjects/DesignPatterns/11.Bridge/3.BridgeImplementation/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/mersed/CLionProjects/DesignPatterns/11.Bridge/3.BridgeImplementation/cmake-build-debug/CMakeFiles/3_BridgeImplementation.dir
+/home/mersed/CLionProjects/DesignPatterns/11.Bridge/3.BridgeImplementation/cmake-build-debug/CMakeFiles/edit_cache.dir
